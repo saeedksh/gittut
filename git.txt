@@ -1,0 +1,14 @@
+---------------------  GIT    --------------------
+ /*
+
+Download GIT FROM https://git-scm.com/downloads 
+
+- Open Git bath 
+- Go to / create Project Folder
+- type : git init
+- Create file 
+- type : git status - one file untracted - 
+	change file
+- type : git add 'filename'  - Go to Stage / git add -A -- ?? ?? ?? ????? ???? ???? ?? ????? ????? ??? ????? ????
+- type : git status  - in stage not commit
+- type : git commit -m  ' Comment '
